@@ -1,0 +1,19 @@
+2016-01-01 13:08:09.323405: step 0, loss = 2.764875 (79.7 examples/sec; 1.606 sec/batch)
+2016-01-01 13:08:10.331126: step 0,  train acc = 7.81, n_correct= 10
+ step 0, Val Acc = 14.06, num correct = 18
+2016-01-01 13:08:12.469948: step 1, loss = 2.727687 (86.7 examples/sec; 1.476 sec/batch)
+2016-01-01 13:08:14.375754: step 2, loss = 2.596002 (93.7 examples/sec; 1.366 sec/batch)
+2016-01-01 13:08:16.267156: step 3, loss = 2.508277 (93.0 examples/sec; 1.377 sec/batch)
+2016-01-01 13:08:18.130703: step 4, loss = 2.427674 (94.0 examples/sec; 1.362 sec/batch)
+2016-01-01 13:08:20.039128: step 5, loss = 2.332324 (92.1 examples/sec; 1.389 sec/batch)
+2016-01-01 13:08:21.008123: step 5,  train acc = 10.94, n_correct= 14
+2016-01-01 13:08:22.450869: step 6, loss = 2.295694 (89.2 examples/sec; 1.435 sec/batch)
+2016-01-01 13:08:24.335345: step 7, loss = 2.324971 (92.4 examples/sec; 1.385 sec/batch)
+2016-01-01 13:08:26.234457: step 8, loss = 2.328213 (92.8 examples/sec; 1.379 sec/batch)
+2016-01-01 13:08:28.115567: step 9, loss = 2.320203 (92.7 examples/sec; 1.380 sec/batch)
+2016-01-01 13:08:29.987038: step 10, loss = 2.310946 (93.4 examples/sec; 1.370 sec/batch)
+2016-01-01 13:08:30.938282: step 10,  train acc = 10.16, n_correct= 13
+2016-01-01 13:08:32.389796: step 11, loss = 2.305843 (88.5 examples/sec; 1.446 sec/batch)
+
+
+############################ FINISHED ############################
